@@ -9,5 +9,8 @@ public class HelloGit {
         System.out.println("这是第三个版本");
         System.out.println("这是第三个版本");
         System.out.println("这是第三个版本");
+        System.out.println("这是fenzhi  yi");
+        System.out.println("这是fenzhi  yi");
+
     }
 }
