@@ -20,6 +20,7 @@ public class HelloGit {
         System.out.println("这是测试Push操作");
         System.out.println("这是测试Push操作");
 
+          System.out.println("这是测试pull操作");
 
 
 
